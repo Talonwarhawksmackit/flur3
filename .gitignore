@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Vite
+.vite/
+vite.config.ts.timestamp-*
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Environment
+.env
+.env.*.local
+*.local
+
+# Coverage
+coverage/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE/editors
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+.idea/
+*.iml
+
+# Optional caches
+.eslintcache
+.stylelintcache
+.parcel-cache/
+.turbo/
+.cache/
